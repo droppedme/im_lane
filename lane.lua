@@ -328,7 +328,7 @@ function main()
     end
 end
 
-check()
+hello()
 
 while true do
     if gg.isVisible(true) then
