@@ -1,20 +1,5 @@
 gg.setVisible(false)
 
-if gg.PACKAGE ~= "org.pronyaroslav.libretorrent" then
-    gg.alert([[
-⚠️ Простите, но скачайте наш Gameguardian чтобы запустить скрипт, спасибо за понимание
-
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-
-🕊️  Наш телеграмм: @fimozroot
-
-⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
-
-📄 Версия скрипта: 0.1
-]])
-    os.exit()
-end
-
 function hello()
     gg.alert([[
 🎠  Скрипт для игры Hide Online
