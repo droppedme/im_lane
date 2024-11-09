@@ -203,7 +203,7 @@ function speedhack()
   find({{"5.11009550095F;8.22019100189F", 0}}, {{"17", 0, true}}, gg.TYPE_FLOAT)
 end
 function esp()
-  find({{"4590068740410625229", 0}}, {{"4590068740424625229", 0, false}}, gg.TYPE_QWORD)
+  find({{"4590068740410625229", 0}}, {{"4590068740424625229", 0, true}}, gg.TYPE_QWORD)
   find({{"4692750811720057088", 0}}, {{"0", 0, true}}, gg.TYPE_QWORD)
 end
 
